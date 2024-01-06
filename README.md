@@ -8,3 +8,6 @@ Create a simple webpage that fetches and displays information about covid19 reco
 <li>JavaScript: Dynamically fetches data from the Covid19 Indian government data API and updates the DOM accordingly.</li>
 <li>Bootstrap: Optionally used for styling components and layout.</li>
 </ol>
+Preview:https://vocal-kelpie-7d6938.netlify.app
+
+
